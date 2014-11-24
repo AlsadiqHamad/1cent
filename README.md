@@ -1,5 +1,5 @@
 ##1cent
 =====
 
-1percent project for helping pepole  
+"One percent" project to help people
 
